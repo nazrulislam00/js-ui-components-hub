@@ -27,3 +27,4 @@ It really helps more learners find this project 💙
 
 ## 📌 Author
 Built for learning, sharing, and growing as a frontend developer 🚀
+i want to try this
